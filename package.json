@@ -1,0 +1,15 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "davila",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.31.2",
+    "twitter":"1.2.5"
+  }
+}
